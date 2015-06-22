@@ -1,0 +1,7 @@
+*{margin:0; padding:0; }
+.center {width:100%px; clear:both; }
+.center .leftArea ,.rightArea {float:left;  }
+.center .leftArea {width:260px; background:#eee; }
+.center .rightArea {  }
+.center .clear {clear:both; }
+.x_tag { color:red; font-weight:bold; }
